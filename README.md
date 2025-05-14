@@ -59,9 +59,7 @@ print(result,unans)
 ```
 
 ## Output
-![Screenshot 2025-05-07 113604](https://github.com/user-attachments/assets/e92a1ac6-c906-4ca0-aff3-e15cb4f4105d)
 
-![Screenshot 2025-05-07 113615](https://github.com/user-attachments/assets/2eda8275-e5e1-46f7-a115-49c21f535154)
 
 
 ## Result
