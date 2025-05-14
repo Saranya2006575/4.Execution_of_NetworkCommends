@@ -1,3 +1,4 @@
+
 # 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
@@ -26,7 +27,7 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 ## Program
-```
+
 CLIENT:
  import socket 
 from pythonping import ping 
@@ -55,10 +56,12 @@ TRACEROUTE COMMAND:
  from scapy.all import*     
 target = ["www.google.com"]     
 result, unans = traceroute(target,maxttl=32) 
-print(result,unans)
-```
+print(result,unans)       `
 
-## Output
+## output 
+![Screenshot 2025-05-07 113615](https://github.com/user-attachments/assets/b5fd2339-cffc-4b0b-8824-3a58e60ea757)
+![Screenshot 2025-05-07 113604](https://github.com/user-attachments/assets/991f4d63-621f-4018-ab2f-d1737a5fbf0e)
+
 
 
 
